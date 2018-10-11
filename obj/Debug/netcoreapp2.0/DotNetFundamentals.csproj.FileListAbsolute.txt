@@ -1,0 +1,10 @@
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/bin/Debug/netcoreapp2.0/DotNetFundamentals.deps.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/bin/Debug/netcoreapp2.0/DotNetFundamentals.runtimeconfig.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/bin/Debug/netcoreapp2.0/DotNetFundamentals.runtimeconfig.dev.json
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/bin/Debug/netcoreapp2.0/DotNetFundamentals.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/bin/Debug/netcoreapp2.0/DotNetFundamentals.pdb
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/obj/Debug/netcoreapp2.0/DotNetFundamentals.csproj.CoreCompileInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/obj/Debug/netcoreapp2.0/DotNetFundamentals.AssemblyInfoInputs.cache
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/obj/Debug/netcoreapp2.0/DotNetFundamentals.AssemblyInfo.cs
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/obj/Debug/netcoreapp2.0/DotNetFundamentals.dll
+/Users/BrettFishel/Documents/CodingDojo/CSharp/DotNetFundamentals/obj/Debug/netcoreapp2.0/DotNetFundamentals.pdb
